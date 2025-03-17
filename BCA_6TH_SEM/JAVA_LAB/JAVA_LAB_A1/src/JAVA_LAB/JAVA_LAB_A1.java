@@ -1,8 +1,8 @@
-package JAVA_LAB_1;
+package JAVA_LAB_A1;
 
 import java.util.Scanner;
 
-public class JAVA_LAB_1 {
+public class JAVA_LAB_A1 {
     public enum Units {
         ZERO(""), ONE("One"), TWO("Two"), THREE("Three"), FOUR("Four"),
         FIVE("Five"), SIX("Six"), SEVEN("Seven"), EIGHT("Eight"), NINE("Nine");
